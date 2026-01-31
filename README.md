@@ -82,6 +82,7 @@ Figure 4: ACL applied inbound on the router interface to enforce traffic restric
 
 
 5. _Router Permit_
+   
   ![Router ACL Configuration](Pictures/Screenshots/Network/router-acl.png)
 
 Figure 5: Router CLI showing ACL rules configured with deny and permit statements.
